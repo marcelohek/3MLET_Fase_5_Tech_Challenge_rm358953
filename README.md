@@ -1,7 +1,6 @@
 # 3MLET_Fase_5_Tech_Challenge_rm358953
 
-## API Previsão de fechamento da ação NVDA
-
+## API Previsão de Contratação
 
 ## Como Executar o Projeto
 
