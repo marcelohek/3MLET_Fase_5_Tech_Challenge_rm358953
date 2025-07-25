@@ -53,6 +53,16 @@ Instale as dependências:
 ```bash
 pip install -r requirements.txt
 ```
+Copie os arquivos da pasta /model para a pasta /api:
+```bash
+feature_cols.joblib
+features_preprocessed.csv
+le.joblib
+ohe.joblib
+target.csv
+vectorizer.joblib
+xgb_model.joblib
+```
 Execute a aplicação:
 ```bash
 uvicorn api_predict:app --host 0.0.0.0 --port 8000
